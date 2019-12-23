@@ -15,8 +15,6 @@ function takeANumber (deliLine) {
   return `Welcome, your ticket number is ${ticketNumber}`;
 }
 
-
-
 function nowServing (deliLine) {
   
   var messageToBeReturned;
